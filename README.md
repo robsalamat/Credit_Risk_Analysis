@@ -36,7 +36,9 @@ Now, we are to apply machine learning to solve a real-world challenge: credit ca
 ![](Images/6.PNG)
 
 
-
 ## III. Summary
 
+From the 6 Analyses:
+
+![](Images/7.PNG)
 

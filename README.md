@@ -11,15 +11,27 @@ Now, we are to apply machine learning to solve a real-world challenge: credit ca
 
 ## II. Results
 
+### A. Naive Random Oversampling
+
 ![](Images/1.PNG)
+
+### B. SMOTE Oversampling
 
 ![](Images/2.PNG)
 
+### C. Cluster Centroid Undersampling
+
 ![](Images/3.PNG)
+
+### D. SMOTEENN Sampling
 
 ![](Images/4.PNG)
 
+### E. Balanced Random Forest Classifying
+
 ![](Images/5.PNG)
+
+### F. Easy Ensemble Classifying
 
 ![](Images/6.PNG)
 

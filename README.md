@@ -38,7 +38,16 @@ Now, we are to apply machine learning to solve a real-world challenge: credit ca
 
 ## III. Summary
 
-From the 6 Analyses:
+We need to determine the best model to detect high risk loans. From our 6 Analyses:
 
 ![](Images/7.PNG)
+
+- For Accuracy, ***Easy Ensemble Classifying*** has the highest score. It detects allmost all the high risk credit.
+
+- For Precision rate, the results are similar for low risk but, ***Easy Ensemble Classifying*** has a slightly higher score for high risk. 
+
+- For Recall rate, ***Easy Ensemble Classifying*** gets the highest score for high risk loans. It has the least amount of undetected high risk loans.
+
+- In conclusion, ***Easy Ensemble Classifying*** is the best and recommended machine learning model to determine credit card risks.
+
 
